@@ -2,24 +2,19 @@
 
 The project demonstrates the use of Cypress for end-to-end web application testing.
 
-Project goal: testing the demo website  
-[Cypress Testing Website](https://cypress-testing-website.vercel.app/)
+Project goal: testing the demo website [Cypress Testing Website](https://cypress-testing-website.vercel.app/)
 
 This application is a blog platform (Medium.com clone) created специально для практики QA automation testing.  
-The tested application is available as a separate project here:  
-https://github.com/psiyavush/cypress-testing-website
+The tested application is available as a separate project [here](https://github.com/psiyavush/cypress-testing-website)  
 
 ---
 
 Проект демонстрирует использование Cypress для end-to-end тестирования веб-приложения.
 
-Цель проекта: тестирование демо-сайта  
-[Cypress Testing Website](https://cypress-testing-website.vercel.app/)
+Цель проекта: тестирование демо-сайта [Cypress Testing Website](https://cypress-testing-website.vercel.app/)
 
 Приложение представляет собой блог-платформу (клон Medium.com), созданную специально для практики автотестирования.  
-Тестируемый сайт вынесен в отдельный проект:  
-https://github.com/psiyavush/cypress-testing-website
-
+Тестируемый сайт вынесен в отдельный [проект](https://github.com/psiyavush/cypress-testing-website)  
 
 ## Test cases
 
